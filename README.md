@@ -9,7 +9,7 @@
 .       sago
 .    prns   any
 
-[atabook](https://sagostic.atabook.org/)
+[my atabook!](https://sagostic.atabook.org/)
 
 
 likes      —    interests (hsr,gi,wuwa,zzz every gacha game +duet night abyss)    drawing  n writing
