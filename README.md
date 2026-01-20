@@ -1,4 +1,9 @@
 ## <3
-![alt](https://image2url.com/r2/default/images/1768903057512-15133d75-5808-4d29-83f4-0bdf6756fe49.png)
-[__sagostic__ , strawpage](https://sagostics.straw.page)
-[my atabook](https://sagostic.atabook.org/)
+<div align="center">
+<img width="3072" height="2296" alt="Image" src="https://github.com/user-attachments/assets/cb1ddfff-00fe-4fad-885a-5b386768dd22" />
+
+
+  [sagostics strawpage](https://sagostics.straw.page)
+
+
+  [my atabook](https://sagostic.atabook.org/)
