@@ -6,4 +6,4 @@
   [sagostics strawpage](https://sagostics.straw.page)
 
 
-  [my atabook](https://sagostic.atabook.org/)
+  [my atabook](https://khaslanas.atabook.org/)
